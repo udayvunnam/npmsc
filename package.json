@@ -1,0 +1,29 @@
+{
+  "name": "npmsc",
+  "version": "1.0.0",
+  "description": "npmsc is npm switch config. Switching between different npm configurations is just a command away.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udayvunnam/npmsc.git"
+  },
+  "keywords": [
+    "npm",
+    "npm",
+    "configuration",
+    "switching",
+    "npm",
+    "config",
+    "npm",
+    "settings"
+  ],
+  "author": "Uday Vunnam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/udayvunnam/npmsc/issues"
+  },
+  "homepage": "https://github.com/udayvunnam/npmsc#readme"
+}
